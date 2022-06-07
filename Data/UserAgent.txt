@@ -1,2 +1,0 @@
-Mozilla/5.0 (Linux; Android 11; vivo 1933) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; CPH2145) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.78 Mobile Safari/537.36
